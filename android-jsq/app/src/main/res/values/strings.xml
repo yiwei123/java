@@ -1,0 +1,13 @@
+<resources>
+    <!--以下内容因为时间关系是直接复制教程的源码，在app里面是隐藏起来的-->
+    <string name="app_name">计算器易威制作</string>
+    <string name="zero">0</string>
+    <string name="er">二进制</string>
+    <string name="ba">八进制</string>
+    <string name="shiliu">十六进制</string>
+    <string name="zhuan">转为整数</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="return0">计算器易威制作</string>
+</resources>
